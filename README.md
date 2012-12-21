@@ -1,6 +1,7 @@
 website
 =======
 
-Grungeset Repository
-*CSS is in css/
-*JS is in js/
+Grungeset website 
+#####  versie 0.4
+* CSS is in css/
+* JS is in js/
